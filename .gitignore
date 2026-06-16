@@ -1,0 +1,12 @@
+# Database credentials — copy config.example.php → config.php dan isi
+config.php
+slims_connection.php
+
+# Versi lama
+rekomendasi_v1.php
+
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
